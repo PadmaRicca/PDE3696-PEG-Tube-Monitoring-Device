@@ -5,7 +5,7 @@ Developed an early-stage, non-invasive medical device concept intended to detect
 The proposed system comprised a wearable sensing device, an individual bedside monitor and a central monitoring interface at the nurses' station. The investigation followed the Engineering Design Process (EDP), combining medical-device design considerations, mechanical engineering, embedded electronics and preliminary experimental testing to evaluate the concept's feasibility and technical limitations.
 
 ## Project information
-**Author:** Padma Michela Ricca
+**Author:** Padma Michela Ricca  
 **Student Number:** M00865397  
 **Dissertation Title:** Design and test of a device detecting the potential movements of Percutaneous Endoscopic Gastrostomy tubes in order to prevent consequent complications in patients. 
 **Dissertation Outcome:** 3 (First Class, Distinction)    
