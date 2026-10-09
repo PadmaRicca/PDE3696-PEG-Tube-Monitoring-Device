@@ -7,7 +7,7 @@ The proposed system comprised a wearable sensing device, an individual bedside m
 ## Project information
 **Author:** Padma Michela Ricca  
 **Student Number:** M00865397  
-**Dissertation Title:** Design and test of a device detecting the potential movements of Percutaneous Endoscopic Gastrostomy tubes in order to prevent consequent complications in patients. 
+**Dissertation Title:** Design and test of a device detecting the potential movements of Percutaneous Endoscopic Gastrostomy tubes in order to prevent consequent complications in patients.  
 **Dissertation Outcome:** 3 (First Class, Distinction)  
 **Supervisors:** Vania Gomes de Almeida and Puja Varsani  
 **Programme:** BEng (Hons) Biomedical Engineering  
