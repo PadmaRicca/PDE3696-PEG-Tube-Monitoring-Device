@@ -22,7 +22,7 @@ The proposed system comprised a wearable sensing device, an individual bedside m
 - Produced detailed three-dimensional CAD models, mechanical assemblies and engineering drawings following BS 8888 technical drawing principles.
 - Designed, 3D-printed and iteratively refined experimental components for feeding-tube retention and load-cell mounting, identifying mechanical weaknesses, dimensional constraints and assembly limitations.
 - Developed Arduino-based firmware using C++ and constructed a force-sensing circuit integrating an Arduino Uno, HX711 amplifier, single-point load cell, RGB LED and piezoelectric buzzer. Programmed force-dependent warning responses and serial monitoring of event severity, magnitude and duration.
-- Conducted repeated static loading and unloading tests informed by ASTM E74, using Minitab to investigate sensor accuracy, repeatability, regression behaviour and measurement uncertainty. Critically evaluated the resulting measurement errors and limitations preventing reliable dynamic testing.
+- Conducted repeated static loading and unloading tests informed by ASTM E74, using Minitab to investigate sensor accuracy, repeatability, regression behaviour and measurement uncertainty. Critically evaluated the resulting measurement errors and the limitations that prevented reliable dynamic testing.
 - Created the MoTect device identity, derived from "Movement Detection", and incorporated its name into the proposed mechanical design. Considered product differentiation, future commercialisation and potential intellectual property protection as part of the wider development strategy.
 - Produced a technical dissertation and academic research poster, and delivered a viva presentation explaining the design decisions, experimental methodology, findings and opportunities for further development.
 
@@ -31,12 +31,12 @@ The proposed system comprised a wearable sensing device, an individual bedside m
 - **Mechanical Design and Fabrication:** SOLIDWORKS, 3D CAD modelling, mechanical assemblies, technical drawings, additive manufacturing and iterative prototyping.
 - **Embedded Systems and Programming:** Arduino Uno, C++ programming, Arduino IDE, HX711 interfacing, electronic circuit development and sensor-based alarm logic.
 - **Experimental Testing and Statistical Analysis:** Force-sensor calibration, repeated-load testing, Minitab, linear regression, measurement error and uncertainty analysis.
-- **Technical Documentation and Communication:** Cirkit Designer, draw.io, engineering documentation, academic report writing, scientific poster development and viva presentation.
+- **Technical Documentation and Communication:** CirkitDesigner, draw.io, engineering documentation, academic report writing, scientific poster development and viva presentation.
 - **Innovation and Commercial Awareness:** Product identity development, design differentiation, intellectual property considerations and critical evaluation of further development requirements.
 
 ## Results and Limitations
 
-The experimental investigation involved five complete loading and unloading runs across eight nominal force levels, evaluating the performance of the single-point load cell and its suitability for the proposed monitoring application.
+The experimental investigation involved five complete loading and unloading runs across eight nominal force levels to evaluate the performance of the single-point load cell and its suitability for the proposed monitoring application.
 
 The sensor demonstrated repeatable measurements at lower forces, with standard deviations below 0.01 N up to approximately 20 N. However, accuracy deteriorated at higher loads, producing a mean measurement error of approximately -1.8 N and an expanded uncertainty of approximately ±3.6 N across the tested range. These findings revealed systematic under-reading and insufficient measurement reliability for clinical use.
 
